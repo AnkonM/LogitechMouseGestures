@@ -7,11 +7,11 @@ In your Logitech Gaming Software Panel right click the profile in which you want
 ## Gestures:
 Name | Action  | Description | Default
 ---- | ------- | ----------- | -------
-TaskView  | Winkey+tab | Opens task view (Win10,11) | enabled
+TaskView  | Winkey+Tab | Opens task view (Win10,11) | enabled
 Minimise | Winkey+d | Minimises all windows | enabled
 MoveDesktopLeft | WinKey+Ctrl+Left | Moves to desktop at relative left | enabled
 MoveDesktopRight | WinKey+Ctrl+Right | Moves to desktop at relative right | enabled
 
 ## Screenshots:
-![Right clicking profile](http://i.imgur.com/zNqAKtB.png "Right click a profile")
-![Paste the code](http://i.imgur.com/yppbAkH.png "Paste code from Github")
+![Opening script menu](https://i.imgur.com/0VonZnV.png "Open scripting menu from profiles.")
+![Paste the code](https://i.imgur.com/mPEyekD.png "Paste code from Github")
