@@ -1,7 +1,7 @@
 --[[
-Author:		BigDaddyMoisture aka LordToothpaste
-Version:	0.8 
-Date: 		30.08.2021
+Original Author: wookiefriseur
+Version:	 0.8 
+Date: 		 30.08.2021
 
 Special thanks to wookiefriseur for the help :)
 
